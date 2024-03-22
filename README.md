@@ -38,4 +38,4 @@ Contributions to improve model performance, optimize hyperparameters, handle cla
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Apiljungthapa/Customer-churn/blob/main/LICENSE).
